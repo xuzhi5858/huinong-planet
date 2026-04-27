@@ -1,0 +1,17 @@
+# 忽略所有代码文件（本仓库仅用于项目展示和招募）
+# 源代码未开源
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# 编辑器
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
